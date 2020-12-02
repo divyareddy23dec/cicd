@@ -31,6 +31,15 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
+				<cloudHubDeployment>
+				<muleVersion>4.3.0-20201013</muleVersion>
+				<username>divyareddy23dec</username>
+				<password>Divya.23dec</password>
+				<environment>Sandbox</environment>
+				<applicationName>mule_cicd</applicationName>
+				<workers>1</workers>
+				<workerType>Micro</workerType>
+				</cloudHubDeployment>
 				</configuration>
 			</plugin>
 		</plugins>
