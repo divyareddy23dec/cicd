@@ -33,9 +33,10 @@
 				<configuration>
 				<cloudHubDeployment>
 				<muleVersion>4.3.0-20201013</muleVersion>
-				<username>divyareddy23dec</username>
-				<password>Divya.23dec</password>
+				<username>rdeepthi960</username>
+				<password>Oct@2020</password>
 				<environment>Sandbox</environment>
+				<uri>https://anypoint.mulesoft.com</uri>
 				<applicationName>mule_cicd</applicationName>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
