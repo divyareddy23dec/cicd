@@ -37,7 +37,7 @@
 				<password>Oct@2020</password>
 				<environment>Sandbox</environment>
 				<uri>https://anypoint.mulesoft.com</uri>
-				<applicationName>mule_cicd</applicationName>
+				<applicationName>mulecicd</applicationName>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				</cloudHubDeployment>
